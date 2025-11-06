@@ -44,11 +44,4 @@ let p4 = p1 * p2;
 let p5 = p4 / p3;
 let z = p5;
 console.log(z);
-/* 
-    r = a +b -c *d;
-    x = (m * n) / (p + q) -r;
-    total = (a + b + c)*(d - e);
-    val = a * (b + c / d) -e;
-    z = (x + y) * (a - b) / (c + d) 
 
-*/
